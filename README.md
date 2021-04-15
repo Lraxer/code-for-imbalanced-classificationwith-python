@@ -1,2 +1,2 @@
 # code for imbalanced classificationwith python
- several code for the book imbalanced classificationwith python
+ several examples for imbalanced classification with python.
