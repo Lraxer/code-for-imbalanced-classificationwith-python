@@ -1,2 +1,2 @@
-# code for imbalanced classificationwith python
- several examples for imbalanced classification with python.
+# code for Imbalanced Classification with Python
+ several examples for Imbalanced Classification with Python.
